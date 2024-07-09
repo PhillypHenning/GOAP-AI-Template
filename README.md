@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file that explains the purpose of the program, how to compile it, and how to run it. This README will guide any user who wants to understand and use the GOAP AI planning template.
-
-### README
-
 # Goal-Oriented Action Planning (GOAP) AI Template in C++
 
 ## Overview
